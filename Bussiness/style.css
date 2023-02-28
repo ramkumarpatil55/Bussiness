@@ -1,0 +1,127 @@
+footer{
+    background: greenyellow;
+}
+.carousel-item{
+    float: left;
+}
+.main{
+    background-image: url("./img/slide_01.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.container h1{
+    color: #fff;
+    font-size: 60px;
+    width: 628px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 10px 10px 20px #000;
+}
+.container h4{
+    color: yellowgreen;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 100px;
+}
+.container .mainpara {
+    color: #fff;
+    width: 628px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.btn1{
+    background-color: yellowgreen;
+    width: 150px;
+    padding: 10px 10px;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.contactus{
+    background-color: yellowgreen;
+    height: 20vh;
+ 
+}
+.contactus h3{
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 50px;
+}
+.contactus .container #contact p {
+    color: rgb(69, 61, 61);
+    font-size: 15px;
+}
+.card-text p{
+    color: #000;
+}
+section #servicehead h2{
+    color: rgb(180, 38, 38);
+    font-size: 60px;
+}
+.card_btn1{
+    background-color: yellowgreen;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 30px;
+    width: 120px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.mid .left-content h2{
+    font-size: 35px;
+    color: #fff;
+    width: 500px;
+}
+.mid .left-content em{
+    color: yellowgreen;
+}
+.mid .left-content p {
+    color: #fff;
+    margin-top: 50px;
+    font-size: 20px;
+}
+.mid  {
+    background-image: url("./img/fun-facts-bg.jpg");
+}
+.more-info{
+    margin-top: 200px;
+}
+.more-info h2{
+    color: #000;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.more-info em{
+    color: rgb(115, 158, 28);
+}
+.more-info p{
+    font-size: 18px;
+}
+.more-info .right-content h4{
+    color: rgb(68, 68, 68);
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+.container_footer{
+    /* background-color: rgb(98, 98, 98); */
+    margin-top: 200px;
+}
+footer{
+    width: 1200px;
+    margin: 0px auto;
+    padding: 20px 20px;
+    /* background-color: rgb(98, 98, 98); */
+    color: #fff;
+}
